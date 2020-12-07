@@ -29,4 +29,4 @@ client.on('message', async (msg) => {
     }
 })
 
-client.login('NTQ0NjYzODY5MjQ3OTc5NTQw.XGIHwQ.R4c7_bM6UpUHEPZjfS3pXCzvDbI')
+client.login('token')
