@@ -1,0 +1,11 @@
+{
+  "name": "discordcleaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "jwkim101201",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
