@@ -20,13 +20,6 @@ client.on('message', async (msg) => {
         await removeChannels(msg)
         await removeEmojis(msg)
     }
-
-    if (cmd === 'addchannel') {
-        for (let i = 1; i <= 100; i++) {
-            msg.guild.channels.create('channel', 'text')
-        }
-        console.log('done')
-    }
 })
 
 client.login('token')
